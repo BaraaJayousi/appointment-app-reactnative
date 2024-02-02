@@ -7,7 +7,7 @@ return (
         <Box bg="$rose100" w="100%" h="100%" justifyContent="center" alignItems="center">
             <Text>Open up App.js to start working on your app!</Text>
             <Divider w={"$1/3"} my="$1.5" bg="$red500" />
-            <Text>testing everythign is going good with dev</Text>
+            <Text>This should got to dev immediatly</Text>
             <Button size="md" variant="solid" >
                 <ButtonText>Click me</ButtonText>
             </Button>
