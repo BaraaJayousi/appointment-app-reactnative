@@ -15,10 +15,11 @@
     "@gluestack-ui/themed": "^1.1.3",
     "expo": "~50.0.5",
     "expo-status-bar": "~1.11.1",
+    "lucide-react-native": "^0.321.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.73.2",
-    "react-native-svg": "^13.4.0",
+    "react-native-svg": "14.1.0",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
